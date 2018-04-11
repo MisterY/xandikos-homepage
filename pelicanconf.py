@@ -40,4 +40,4 @@ PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['plugins', 'sitemap', 'assets']
