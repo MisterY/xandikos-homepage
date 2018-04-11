@@ -1,6 +1,3 @@
 [submodule "plugins"]
 	path = plugins
 	url = ./plugins
-[submodule "pjport"]
-	path = pjport
-	url = ./pjport
