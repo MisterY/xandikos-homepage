@@ -12,7 +12,7 @@ TIMEZONE = 'Etc/UTC'
 
 DEFAULT_LANG = 'en'
 
-THEME = 'pjport'
+THEME = 'nikhil-theme'
 
 DEFAULT_PAGINATION = False
 
@@ -36,10 +36,11 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Menu
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('', ''), # this item is to show link on top and bottom of page
+    ('Contributing', '/contributing.html'),
 )
 
 #
@@ -65,12 +66,14 @@ STATIC_PATHS = []
 EXTRA_PATH_METADATA = {}
 
 # about me
-ABOUT_ME = None # showed on left side of footer
+ABOUT_ME = 'blah'
 
 # contacts
 CONTACT_EMAIL = 'jelmer@jelmer.uk'
 CONTACT_PHONE = None
 CONTACT_CITY = None
 
-# GOOGLE ANALYTICS (set to  None if don't want it)
-GOOGLE_ANALYTICS = None
+GOOGLE_ANALYTICS = 'UA-36267049-5'
+DIRECT_TEMPLATES = []
+
+INDEX_SAVE_AS = 'news.html'
