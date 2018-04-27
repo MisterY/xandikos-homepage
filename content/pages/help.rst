@@ -1,5 +1,4 @@
 :title: Help
-:slug: help
 :save_as: help.html
 
 IRC
