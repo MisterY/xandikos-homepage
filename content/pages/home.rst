@@ -28,7 +28,7 @@ Limitations
 Dependencies
 ------------
 
-At the moment, Xandikos supports Python 3.3 and higher as well as Pypy 3. It
+At the moment, Xandikos supports Python 3.4 and higher as well as Pypy 3. It
 also uses `Dulwich <https://github.com/jelmer/dulwich>`_,
 `Jinja2 <http://jinja.pocoo.org/>`_,
 `icalendar <https://github.com/collective/icalendar>`_, and
