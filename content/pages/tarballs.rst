@@ -1,3 +1,5 @@
+* `0.0.11 <https://jelmer.uk/code/xandikos/v0.0.11?path=>`_
+* `0.0.10 <https://jelmer.uk/code/xandikos/v0.0.10?path=>`_
 * `0.0.9 <https://jelmer.uk/code/xandikos/v0.0.9?path=>`_
 * `0.0.8 <https://jelmer.uk/code/xandikos/v0.0.8?path=>`_
 * `0.0.7 <https://jelmer.uk/code/xandikos/v0.0.7?path=>`_
