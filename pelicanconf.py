@@ -46,3 +46,6 @@ DIRECT_TEMPLATES = ['index']
 SITEMAP = {'format': 'xml'}
 
 INDEX_SAVE_AS = 'news.html'
+
+SHARE_BUTTONS = []
+TAG_CLOUD_SORTING = 'size'
