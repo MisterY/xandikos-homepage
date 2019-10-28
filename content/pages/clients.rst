@@ -1,4 +1,5 @@
 :save_as: clients.html
+:slug: clients
 
 Tested Clients
 ==============
