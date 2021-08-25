@@ -4,7 +4,7 @@
 IRC
 ###
 
-There is a *#xandikos* IRC channel on the `Freenode <https://www.freenode.net/>`_
+There is a *#xandikos* IRC channel on the `OFTC <https://www.oftc.net/>`_
 IRC network.
 
 Mailing list
