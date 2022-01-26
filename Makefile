@@ -61,7 +61,10 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-html:
+output/manpage.html: xandikos/man/xandikos.8
+	man2html -r $< > $@
+
+html: output/manpage.html
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
