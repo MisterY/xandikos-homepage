@@ -4,3 +4,6 @@
 [submodule "nikhil-theme"]
 	path = nikhil-theme
 	url = ./nikhil-theme
+[submodule "MinimalXY"]
+	path = MinimalXY
+	url = https://github.com/petrnohejl/MinimalXY

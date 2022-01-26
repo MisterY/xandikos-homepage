@@ -10,7 +10,7 @@ TIMEZONE = 'Etc/UTC'
 
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/MinimalXY'
+THEME = 'MinimalXY'
 
 DEFAULT_PAGINATION = False
 
