@@ -29,6 +29,11 @@ DEFAULT_PAGINATION = 10
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
+# Social
+SOCIAL = (
+    ('github', 'https://github.com/jelmer/xandikos'),
+)
+
 MENUITEMS = (
     ('News', '/news.html'),
     ('Clients', '/clients.html'),
