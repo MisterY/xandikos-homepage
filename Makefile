@@ -125,3 +125,7 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+
+docker:
+	docker build -t ghcr.io/xandikos/homepage .
+	docker push ghcr.io/xandikos/homepage
