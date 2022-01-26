@@ -6,4 +6,7 @@
 	url = ./nikhil-theme
 [submodule "MinimalXY"]
 	path = MinimalXY
-	url = https://github.com/petrnohejl/MinimalXY
+	url = https://github.com/xandikos/MinimalXY
+[submodule "xandikos"]
+	path = xandikos
+	url = https://github.com/jelmer/xandikos.git
