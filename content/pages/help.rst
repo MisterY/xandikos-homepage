@@ -1,6 +1,12 @@
 :title: Help
 :save_as: help.html
 
+Manual
+######
+
+The `man <https://www.xandikos.org/manpage.html>`_ is available online.
+
+
 IRC
 ###
 
