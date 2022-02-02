@@ -1,6 +1,12 @@
 :title: Help
 :save_as: help.html
 
+Manual
+######
+
+The `man </manpage.html>`_ is available online.
+
+
 IRC
 ###
 
