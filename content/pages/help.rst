@@ -4,7 +4,7 @@
 Manual
 ######
 
-The `man <https://www.xandikos.org/manpage.html>`_ is available online.
+The `man </manpage.html>`_ is available online.
 
 
 IRC
